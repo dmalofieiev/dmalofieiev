@@ -2,6 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Front-End Developer, specializing in designing user-friendly, cross-browser compliant websites and UI applications.</h3>
 <h3>💻 My tecnology stack:</h3>
+<table>
+  <tr>
+    <th>Front-End</th>
+    <th>Back-End</th>
+  </tr>
+  <tr>
+    <td>
 <ul>
   <li><img src="img/javascript-color.svg" height="20"/> JavaScript</li>
   <li><img src="img/typescript-color.svg" height="20"/> TypeScript</li>
@@ -10,4 +17,14 @@
   <li><img src="img/html5-color.svg" height="20"/> HTML5</li>
   <li><img src="img/css3-color.svg" height="20"/> CSS33</li>
 </ul>
+    </td>
+    <td>
+      <ul>
+        <li><img src="img/nodedotjs-color.svg" height="20"/> Node.js</li>
+        <li><img src="img/express-color.svg" height="20"/> Express</li>
+        <li><img src="img/postgresql-color.svg" height="20"/> PostgreSQL</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
