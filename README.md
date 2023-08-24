@@ -3,8 +3,8 @@
 <h3 align="center">Front-End Developer, specializing in designing user-friendly, cross-browser compliant websites and UI applications.</h3>
 <h3>💻 My tecnology stack:</h3>
 <ul>
-  <li><img src="img/javascript-color.svg" height="30"/>JavaScript</li>
-  <li><img/>TypeScrip</li>
+  <li><img src="img/javascript-color.svg" height="20"/> JavaScript</li>
+  <li><img/>TypeScript</li>
   <li><img/>React</li>
   <li><img/>Redux Toolkit</li>
   <li><img/>HTML5</li>
