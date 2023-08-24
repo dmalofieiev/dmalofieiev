@@ -4,8 +4,9 @@
 <h3>💻 My tecnology stack:</h3>
 <table>
   <tr>
-    <th>Front-End</th>
-    <th>Back-End</th>
+    <th>Front-End:</th>
+    <th>Back-End:</th>
+    <th>Others:</th>
   </tr>
   <tr>
     <td>
@@ -23,6 +24,13 @@
         <li><img src="img/nodedotjs-color.svg" height="20"/> Node.js</li>
         <li><img src="img/express-color.svg" height="20"/> Express</li>
         <li><img src="img/postgresql-color.svg" height="20"/> PostgreSQL</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><img src="img/bootstrap-color.svg" height="20"/> Bootstrap</li>
+        <li><img src="img/mui-color.svg" height="20"/> MUI</li>
+        <li><img src="img/figma-color.svg" height="20"/> Figma</li>
       </ul>
     </td>
   </tr>
