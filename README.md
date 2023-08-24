@@ -20,7 +20,7 @@
 </ul>
     </td>
     <td>
-      <ul>
+      <ul padding="0" margin="0">
         <li><img src="img/nodedotjs-color.svg" height="20"/> Node.js</li>
         <li><img src="img/express-color.svg" height="20"/> Express</li>
         <li><img src="img/postgresql-color.svg" height="20"/> PostgreSQL</li>
