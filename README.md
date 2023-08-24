@@ -4,10 +4,10 @@
 <h3>💻 My tecnology stack:</h3>
 <ul>
   <li><img src="img/javascript-color.svg" height="20"/> JavaScript</li>
-  <li><img/>TypeScript</li>
-  <li><img/>React</li>
-  <li><img/>Redux Toolkit</li>
-  <li><img/>HTML5</li>
-  <li><img/>CSS33</li>
+  <li><img src="img/typescript-color.svg" height="20"/>TypeScript</li>
+  <li><img src="img/react-color.svg" height="20"/>React</li>
+  <li><img src="img/redux-color.svg" height="20"/>Redux Toolkit</li>
+  <li><img src="img/html5-color.svg" height="20"/>HTML5</li>
+  <li><img src="img/css3-color.svg" height="20"/>CSS33</li>
 </ul>
 
