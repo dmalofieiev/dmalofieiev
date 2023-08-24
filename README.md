@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Front-End Developer, specializing in designing user-friendly, cross-browser compliant websites and UI applications.</h3>
 <h3>💻 My tecnology stack:</h3>
-<table>
+<table margin-left="auto" margin-right="auto">
   <tr>
     <th>Front-End:</th>
     <th>Back-End:</th>
