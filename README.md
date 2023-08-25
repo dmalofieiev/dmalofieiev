@@ -16,7 +16,7 @@
   <li><img src="img/react-color.svg" height="20"/> React</li>
   <li><img src="img/redux-color.svg" height="20"/> Redux Toolkit</li>
   <li><img src="img/html5-color.svg" height="20"/> HTML5</li>
-  <li><img src="img/css3-color.svg" height="20"/> CSS33</li>
+  <li><img src="img/css3-color.svg" height="20"/> CSS3</li>
 </ul>
     </td>
     <td>
