@@ -11,7 +11,7 @@
   <tr>
     <td>
 <ul>
-  <li><img src="img/javascript-color.svg" height="20"/> JavaScript</li>
+  <li><img src="img/javascript-color.svg" height="20" alt="JavaScript"/> JavaScript</li>
   <li><img src="img/typescript-color.svg" height="20"/> TypeScript</li>
   <li><img src="img/react-color.svg" height="20"/> React</li>
   <li><img src="img/redux-color.svg" height="20"/> Redux Toolkit</li>
