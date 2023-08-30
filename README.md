@@ -19,14 +19,14 @@
   <li><img src="img/css3-color.svg" height="20"/> CSS3</li>
 </ul>
     </td>
-    <td>
+    <td valign="top">
       <ul>
         <li><img src="img/nodedotjs-color.svg" height="20"/> Node.js</li>
         <li><img src="img/express-color.svg" height="20"/> Express</li>
         <li><img src="img/postgresql-color.svg" height="20"/> PostgreSQL</li>
       </ul>
     </td>
-    <td>
+    <td valign="top">
       <ul>
         <li><img src="img/bootstrap-color.svg" height="20"/> Bootstrap</li>
         <li><img src="img/mui-color.svg" height="20"/> MUI</li>
