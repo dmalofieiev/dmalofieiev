@@ -31,6 +31,7 @@
         <li><img src="img/nodedotjs-color.svg" height="20" alt="Node.js"/> Node.js</li>
         <li><img src="img/express-color.svg" height="20" alt="Express"/> Express</li>
         <li><img src="img/postgresql-color.svg" height="20" alt="PostgreSQL"/> PostgreSQL</li>
+        <li><img src="img/telegram-svgrepo-com.svg" height="20" alt="Telegram API"/> Telegram API</li>
       </ul>
     </td>
     <td valign="top">
@@ -43,14 +44,4 @@
     </td>
   </tr>
 </table>
-
----
-
-<h3 align="center">📫 Contact Me</h3>
-
-<p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="img/telegram-svgrepo-com.svg" height="30" alt="Telegram"/>
-  </a>
-</p>
 
