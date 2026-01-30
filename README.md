@@ -7,7 +7,7 @@
 
 <h3 align="center">💻 My Technology Stack</h3>
 
-<table align="center">
+<table align="center" style="width: 100%">
   <tr>
     <th>Front-End</th>
     <th>Back-End</th>
