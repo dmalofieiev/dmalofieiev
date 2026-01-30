@@ -7,14 +7,14 @@
 
 <h3 align="center">💻 My Technology Stack</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <th>Front-End</th>
-    <th>Back-End</th>
-    <th>Tools</th>
+    <th width="33%">Front-End</th>
+    <th width="33%">Back-End</th>
+    <th width="33%">Tools</th>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" style="white-space: nowrap;">
       <ul>
         <li><img src="img/javascript-color.svg" height="20" alt="JavaScript"/> JavaScript</li>
         <li><img src="img/typescript-color.svg" height="20" alt="TypeScript"/> TypeScript</li>
@@ -26,7 +26,7 @@
         <li><img src="img/scss2-svgrepo-com.svg" height="20" alt="SCSS"/> SCSS</li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" style="white-space: nowrap;">
       <ul>
         <li><img src="img/nodedotjs-color.svg" height="20" alt="Node.js"/> Node.js</li>
         <li><img src="img/express-color.svg" height="20" alt="Express"/> Express</li>
@@ -34,7 +34,7 @@
         <li><img src="img/telegram-svgrepo-com.svg" height="20" alt="Telegram API"/> Telegram API</li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" style="white-space: nowrap;">
       <ul>
         <li><img src="img/git-svgrepo-com.svg" height="20" alt="Git"/> Git</li>
         <li><img src="img/bootstrap-color.svg" height="20" alt="Bootstrap"/> Bootstrap</li>
